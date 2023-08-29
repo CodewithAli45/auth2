@@ -15,6 +15,7 @@ const Home = () => {
                     <Link to={'/login'}className='list'>Login</Link>
                 </li>
             </ul>
+            <img src={'backdrop.jpg'} alt="backdop" />
         </div>
     );
 }
