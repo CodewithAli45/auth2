@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    background-color: aliceblue;
+
+}
+ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+}
+li {
+    font-size: 22px;
+    
+}
+.list {
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+    font-weight: bold;
+}
